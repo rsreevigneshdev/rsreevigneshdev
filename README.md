@@ -54,7 +54,7 @@
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rsreevigneshdev&theme=default&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=000000&dates=000000" height="180"/>
+ <img src="https://streak-stats.demolab.com?user=rsreevigneshdev&theme=default&background=FFFFFF&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=000000&dates=000000&cache_seconds=30&v=1" height="180"/>
 </div>
 
 ---
