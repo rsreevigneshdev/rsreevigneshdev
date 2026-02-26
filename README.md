@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Sreevignesh</h1>
 
 <div align="center">
-  <img height="300" src="https://www.webmediasolution.in/wp-content/themes/webmedia/assets/img/website.gif" />
+  <img height="1000" src="https://github.com/rsreevigneshdev/rsreevigneshdev/blob/main/GITPROFILE-ezgif.com-crop.gif?raw=true" />
 </div>
 
 ---
